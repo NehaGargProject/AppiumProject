@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="test.sample.appium.TestAppiumFirstExample" duration-ms="16021" started-at="2016-01-04T03:28:46Z" finished-at="2016-01-04T03:29:02Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="16021" started-at="2016-01-04T03:28:46Z" finished-at="2016-01-04T03:29:02Z">
+      <class name="test.sample.appium.TestAppiumFirstExample">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:test.sample.appium.TestAppiumFirstExample@2d554825]" name="setUp" is-config="true" duration-ms="9828" started-at="2016-01-03T22:28:46Z" finished-at="2016-01-03T22:28:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Cal()[pri:0, instance:test.sample.appium.TestAppiumFirstExample@2d554825]" name="Cal" duration-ms="4482" started-at="2016-01-03T22:28:56Z" finished-at="2016-01-03T22:29:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Cal -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.sample.appium.TestAppiumFirstExample@2d554825]" name="tearDown" is-config="true" duration-ms="1697" started-at="2016-01-03T22:29:00Z" finished-at="2016-01-03T22:29:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.sample.appium.TestAppiumFirstExample -->
+    </test> <!-- Command line test -->
+  </suite> <!-- test.sample.appium.TestAppiumFirstExample -->
+</testng-results>
